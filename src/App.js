@@ -8,9 +8,7 @@ function App() {
         <title>“Brown Bears”</title>
       </head>
       <body>
-        <h1>
-          لا تأسرعي على <em>الأوتوبان</em>
-        </h1>
+        <h1>the Brown Bears</h1>
         <ul>
           <li>
             <a href="#introduction">Introduction</a>
